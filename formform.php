@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>Membuat Form Login</title>
-    <link href="1b-login.css" rel="stylesheet">
+    <link href="login2.css" rel="stylesheet">
 </head>
 <body>
     <form id="login-form" action="tabeltabel.php" method="GET">
